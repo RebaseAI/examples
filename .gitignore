@@ -1,0 +1,64 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Build output
+build/
+dist/
+.next/
+out/
+.cache/
+.temp/
+.temp-*
+*.log
+
+# Hugo/Jekyll/etc.
+public/
+_site/
+
+# Markdown lint/cache
+.markdownlint.json
+.markdownlint-cli2.jsonc
+.markdownlint-cli2-output.json
+
+# System junk
+Thumbs.db
+ehthumbs.db
+Icon?
+*.swp
+*~
+
+# Local scripts/temp files
+*.bak
+*.tmp
+*.swp
+
+# Ignore output PDFs or other generated files
+*.pdf
+*.docx
+*.pptx
+
+# Ignore screenshots and previews
+*.png
+*.jpg
+*.jpeg
+*.gif
+screenshots/
+previews/
