@@ -69,6 +69,10 @@ use_cases/
 - [Rebase Blog](https://blog.rebase.run)
 - [Rebase Website](https://rebase.run/)
 
+## Join Our Community
+
+We would love for you to join our organization at [dev.to](https://dev.to/rebase-ai/) to stay updated with the latest DevOps automation tips, tutorials, and community discussions. We're always excited to see interesting use cases and workflows that you create with Rebase! Feel free to shoot us an email at m@rebase.run to get an invite.
+
 ---
 
 *This repository is maintained by the Rebase team. For questions or support, visit [rebase.run](https://rebase.run).* 
