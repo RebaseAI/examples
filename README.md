@@ -1,10 +1,10 @@
-# Use Cases Repository
+# Examples Repository
 
-This repository contains practical use cases and tutorials demonstrating how to use [Rebase](https://rebase.run) to simplify DevOps infrastructure deployment and management. Rebase is an AI-powered platform that allows you to provision and manage cloud resources through natural language commands, eliminating the need for complex manual configuration.
+This repository contains practical examples and tutorials demonstrating how to use [Rebase](https://rebase.run) to simplify DevOps infrastructure deployment and management. Rebase is an AI-powered platform that allows you to provision and manage cloud resources through natural language commands, eliminating the need for complex manual configuration.
 
 ## Purpose
 
-The goal of this repository is to provide real-world examples and step-by-step guides for common DevOps infrastructure tasks that can be accomplished using Rebase. These use cases serve as:
+The goal of this repository is to provide real-world examples and step-by-step guides for common DevOps infrastructure tasks that can be accomplished using Rebase. These examples serve as:
 
 - **Learning resources** for teams new to Rebase
 - **Reference guides** for common infrastructure patterns
@@ -13,7 +13,7 @@ The goal of this repository is to provide real-world examples and step-by-step g
 
 ## Getting Started with Rebase
 
-Before diving into the use cases, you can [try Rebase for free](https://rebase.run) - no credit card required. Rebase allows you to:
+Before diving into the examples, you can [try Rebase for free](https://rebase.run) - no credit card required. Rebase allows you to:
 
 - Provision cloud resources using natural language
 - Get cost estimates before deployment
@@ -21,12 +21,12 @@ Before diving into the use cases, you can [try Rebase for free](https://rebase.r
 - Avoid manual console configuration
 - Ensure security best practices
 
-## Use Cases
+## Examples
 
 ### Networking
 
 #### [Setup VPC Peering](./networking/Setup%20VPC%20Peering.md)
-A comprehensive guide showing how to connect multiple VPCs using VPC peering. This use case covers:
+A comprehensive guide showing how to connect multiple VPCs using VPC peering. This example covers:
 - Creating multiple VPCs with non-overlapping CIDR blocks
 - Setting up private subnets across different VPCs
 - Configuring VPC peering connections
@@ -46,12 +46,12 @@ A detailed tutorial for creating a production-ready VPC architecture including:
 
 ## Contributing
 
-We welcome contributions! If you have additional use cases or improvements to existing ones, please:
+We welcome contributions! If you have additional examples or improvements to existing ones, please:
 
 1. Create a new markdown file in the appropriate directory
 2. Follow the existing format and structure
 3. Include screenshots and step-by-step instructions
-4. Add a link to your use case in this README
+4. Add a link to your example in this README
 
 ## Structure
 
