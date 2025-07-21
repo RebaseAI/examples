@@ -44,6 +44,14 @@ A comprehensive guide showing how to connect multiple VPCs using VPC peering. Th
 - Testing connectivity between EC2 instances
 - Using AWS SSM for secure instance access
 
+#### [3. Find and Release Unassociated Elastic IPs](./networking/Find%20and%20release%20unassociated%20ElasticIPs.md)
+A practical guide for cost optimization by cleaning up unused AWS resources. This example demonstrates:
+- Identifying unassociated Elastic IPs across regions
+- Understanding the cost implications of unused Elastic IPs
+- Using natural language prompts to automate cleanup
+- Verifying the cleanup process in AWS Console
+- Best practices for ongoing cost management
+
 ## Contributing
 
 We love contributions! If you have additional examples or improvements to existing ones, please:
@@ -56,10 +64,11 @@ We love contributions! If you have additional examples or improvements to existi
 ## Structure
 
 ```
-use_cases/
+examples/
 ├── networking/          # Network infrastructure use cases
 │   ├── Setup VPC Peering.md
-│   └── Setup VPC with Public and Private Subnets, IGW and NGW in multiple AZs.md
+│   ├── Setup VPC with Public and Private Subnets, IGW and NGW in multiple AZs.md
+│   └── Find and release unassociated ElasticIPs.md
 └── README.md           # This file
 ```
 
